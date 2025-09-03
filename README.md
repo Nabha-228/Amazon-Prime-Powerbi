@@ -37,6 +37,30 @@ The Power BI dashboard includes:
 - `amazon prime.png` → Dashboard screenshot.  
 - `README.md` → Documentation file.  
 
+### 📸 Report Preview
+![Amazon Prime Dashboard](amazon%20prime.png)
+
+### 🛠 Tools & Skills Used
+- **Microsoft Power BI** → Report building & visualization  
+- **DAX (Data Analysis Expressions)** → Custom measures & KPIs  
+- **Data Modeling** → Creating relationships and optimized data structures  
+- **Visual Analytics & Storytelling** → Designing effective dashboards and insights
+
+- 
+### 🗂 Project Structure
+Amazon-Prime-PowerBI/
+│
+├── data/
+│ └── amazon_prime_titles.csv # Dataset
+│
+├── report/
+│ └── amazon_prime.pbix # Power BI file
+│
+├── images/
+│ └── amazon prime.png # Dashboard screenshot
+│
+└── README.md # Project documentation
+
 ### ⚡ How to Use
 1. Download all files from this repository.  
 2. Open the **.pbix** file with **Power BI Desktop**.  
@@ -49,7 +73,7 @@ The Power BI dashboard includes:
 - Publish to Power BI Service for online access and sharing.  
 
 ---
-
+👩‍💻 **Created by: NabhaAhmed**  
 💡 If you found this project interesting, feel free to **connect with me on [LinkedIn](www.linkedin.com/in/nabha-ahmed-166491221
 
 )**!
